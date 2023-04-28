@@ -1,17 +1,20 @@
 [
    {
-      "id" : 0,
-      "art" : "Blue Tanzanite",
-      "artist" : "Hunt Slonem"
+      "id": 0,
+      "art": "Blue Tanzanite",
+      "artist": "Hunt Slonem",
+      "img": "https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FoZr6qqyrxwn5NJwnru1oTA%2Fnormalized.jpg&width=678"
    },
    {
-      "id" : 1,
-      "art" : "Surfaces: Woman with a Fan, after Jean Metzinger",
-      "artist" : "Vik Muniz"
+      "id": 1,
+      "art": "Surfaces: Woman with a Fan, after Jean Metzinger",
+      "artist": "Vik Muniz"
+      "img": "https://d7hftxdivxxvm.cloudfront.net/?height=1600&quality=50&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F3QXeeB_ffVdQwOz5IMCQHg%2Fnormalized.jpg&width=1096"
    },
    {
-      "id" : 2,
-      "art" : "Back To The End",
-      "artist" : "Eric Haacht"
+      "id": 2,
+      "art": "Back To The End",
+      "artist": "Eric Haacht",
+      "img": "https://d7hftxdivxxvm.cloudfront.net/?height=1600&quality=50&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FF435COcokstOoFm0bXQYLg%2Fnormalized.jpg&width=1280"
    }
 ]
