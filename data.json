@@ -1,0 +1,23 @@
+[
+   {
+      "id": 0,
+      "art": "Blue Tanzanite",
+      "artist": "Hunt Slonem",
+      "price": 1500,
+      "img": "https://d7hftxdivxxvm.cloudfront.net/?height=1600&quality=50&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FoZr6qqyrxwn5NJwnru1oTA%2Fnormalized.jpg&width=1356"
+   },
+   {
+      "id": 1,
+      "art": "Surfaces: Woman with a Fan, after Jean Metzinger",
+      "artist": "Vik Muniz",
+      "price: 6500,
+      "img": "https://d7hftxdivxxvm.cloudfront.net/?height=1600&quality=50&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2F3QXeeB_ffVdQwOz5IMCQHg%2Fnormalized.jpg&width=1096"
+   },
+   {
+      "id": 2,
+      "art": "Back To The End",
+      "artist": "Eric Haacht",
+      "price": 2500,
+      "img": "https://d7hftxdivxxvm.cloudfront.net/?height=1600&quality=50&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FF435COcokstOoFm0bXQYLg%2Fnormalized.jpg&width=1280"
+   }
+]
