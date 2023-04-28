@@ -3,18 +3,18 @@
       "id": 0,
       "art": "Blue Tanzanite",
       "artist": "Hunt Slonem",
-      "img": "https://raw.githubusercontent.com/bins0/bins0.github.io/main/cilng.jpg"
+      "price": 6500
    },
    {
       "id": 1,
       "art": "Surfaces: Woman with a Fan, after Jean Metzinger",
       "artist": "Vik Muniz"
-      "img": "https://raw.githubusercontent.com/bins0/bins0.github.io/main/cilng.jpg"
+      "price": 68,500
    },
    {
       "id": 2,
       "art": "Back To The End",
       "artist": "Eric Haacht",
-      "img": "https://raw.githubusercontent.com/bins0/bins0.github.io/main/cilng.jpg"
+      "price": 2500
    }
 ]
