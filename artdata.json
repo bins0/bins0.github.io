@@ -2,19 +2,16 @@
    {
       "id": 0,
       "art": "Blue Tanzanite",
-      "artist": "Hunt Slonem",
-      "price": 6500 
+      "artist": "Hunt Slonem"
    },
    {
       "id": 1,
       "art": "Surfaces: Woman with a Fan, after Jean Metzinger",
-      "artist": "Vik Muniz",
-      "price": 68500
+      "artist": "Vik Muniz"
    },
    {
       "id": 2,
       "art": "Back To The End",
-      "artist": "Eric Haacht",
-      "price": 2500
+      "artist": "Eric Haacht"
    }
 ]
